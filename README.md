@@ -6,7 +6,7 @@ A Windows C++ utility for cleaning system, browser, development-tool, gaming, an
 
 The easiest option is to download the prebuilt executable:
 
-**[Download `cleaner.exe`](https://github.com/ghostneverdies/windows-cache-cleaner-ultimate/blob/main/cleaner.exe)**
+**[Download Windows Cache Cleaner Ultimate]([https://github.com/ghostneverdies/windows-cache-cleaner-ultimate/blob/main/cleaner.exe](https://github.com/ghostneverdies/windows-cache-cleaner-ultimate/releases/download/v1.1/cleaner.exe))**
 
 After downloading:
 

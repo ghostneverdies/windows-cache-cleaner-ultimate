@@ -8,6 +8,8 @@
 #include <iomanip>
 #include <ctime>
 
+#pragma comment(lib, "Advapi32.lib")
+
 namespace fs = std::filesystem;
 
 // ANSI escape codes for colored CLI output
